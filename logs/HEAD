@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 481cfc8500a9f1e5b19625524ffde5c7b831f60d Austin Oestreich <amichaeloestreich@yahoo.com> 1450593840 -0600	commit (initial): start
+481cfc8500a9f1e5b19625524ffde5c7b831f60d 481cfc8500a9f1e5b19625524ffde5c7b831f60d Austin Oestreich <amichaeloestreich@yahoo.com> 1451421666 -0600	checkout: moving from master to networkcalltesting
+481cfc8500a9f1e5b19625524ffde5c7b831f60d 481cfc8500a9f1e5b19625524ffde5c7b831f60d Austin Oestreich <amichaeloestreich@yahoo.com> 1451421860 -0600	checkout: moving from networkcalltesting to master
+481cfc8500a9f1e5b19625524ffde5c7b831f60d 0d4fb887d131dc5179c5e41a1e871d6e8734ca45 Austin Oestreich <amichaeloestreich@yahoo.com> 1451422066 -0600	commit: progress
+0d4fb887d131dc5179c5e41a1e871d6e8734ca45 0d4fb887d131dc5179c5e41a1e871d6e8734ca45 Austin Oestreich <amichaeloestreich@yahoo.com> 1451422119 -0600	checkout: moving from master to networkwork
+0d4fb887d131dc5179c5e41a1e871d6e8734ca45 0d4fb887d131dc5179c5e41a1e871d6e8734ca45 Austin Oestreich <amichaeloestreich@yahoo.com> 1451422166 -0600	checkout: moving from networkwork to master
+0d4fb887d131dc5179c5e41a1e871d6e8734ca45 35150f844008c13c157db901a828bdb71bc63c04 Austin Oestreich <amichaeloestreich@yahoo.com> 1451424178 -0600	commit: test
+35150f844008c13c157db901a828bdb71bc63c04 0d4fb887d131dc5179c5e41a1e871d6e8734ca45 Austin Oestreich <amichaeloestreich@yahoo.com> 1451424188 -0600	checkout: moving from master to networkwork
+0d4fb887d131dc5179c5e41a1e871d6e8734ca45 35150f844008c13c157db901a828bdb71bc63c04 Austin Oestreich <amichaeloestreich@yahoo.com> 1451424222 -0600	checkout: moving from networkwork to master
+35150f844008c13c157db901a828bdb71bc63c04 742017188aac644a70429616bf449329cca8072d Austin Oestreich <amichaeloestreich@yahoo.com> 1451424317 -0600	commit: addition
+742017188aac644a70429616bf449329cca8072d 0d4fb887d131dc5179c5e41a1e871d6e8734ca45 Austin Oestreich <amichaeloestreich@yahoo.com> 1451424321 -0600	checkout: moving from master to networkwork
+0d4fb887d131dc5179c5e41a1e871d6e8734ca45 c1a49c31492a08313a14798ad9cfefdffbcbcaba Austin Oestreich <amichaeloestreich@yahoo.com> 1451433081 -0600	commit: Network GET and json parsing progress
